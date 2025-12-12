@@ -1,0 +1,20 @@
+`text
+# Python
+pycache/
+*.py[cod]
+*$py.class
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+media/
+
+# Environments
+.env
+venv/
+env/
+.venv/
+
+# OS
+.DS_Store
